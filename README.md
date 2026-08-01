@@ -3,30 +3,13 @@
 
 
 
-Ever wondered what Netflix's library actually looks like under the hood? 
+Ever wondered what Netflix's library actually looks like under the hood?                                      
 This dashboard digs into 8,780 titles,  movies and TV shows to explore how Netflix has grown, what content it focuses on, and where it comes from.
-
-
-
-
----
-
-
 
 
 ## Live Dashboard
 
-
-
-
 🔗 **[Click here to explore the interactive dashboard](https://public.tableau.com/app/profile/shreya.singh5357/viz/Netflix_17750390908590/Netflix?publish=yes)**
-
-
-
-
----
-
-
 
 
 ## Dashboard Preview
@@ -34,13 +17,13 @@ This dashboard digs into 8,780 titles,  movies and TV shows to explore how Netfl
 
 ![Dashboard Overview](dashboard_preview1.png)
 
+<br>
+<br>
 
 ![Dashboard Details](dashboard_preview2.png)
 
 
 
-
----
 
 
 
@@ -49,7 +32,7 @@ This dashboard digs into 8,780 titles,  movies and TV shows to explore how Netfl
 
 I used a Netflix dataset from Kaggle covering titles added between **1925 and 2021** to build an interactive dashboard in Tableau. The goal was to understand the makeup of Netflix's content, what type, which genres, which countries, and how it's changed over the years.
 
----
+
 
 ## What I Found
 
@@ -60,7 +43,7 @@ I used a Netflix dataset from Kaggle covering titles added between **1925 and 20
 - Movies average about **100 minutes**, and TV shows average **2 seasons**
 - Content growth really took off after **2015**, which lines up with Netflix going global
 
----
+
 
 ## What's in the Dashboard
 
@@ -84,7 +67,7 @@ You can filter everything by **Country, Date Added, Release Year, and Director**
 3. Hover over any chart to see the exact numbers
 4. Click on a country on the map to filter the whole dashboard to that region
 
----
+
 
 ## Files in This Repo
 
@@ -94,11 +77,8 @@ You can filter everything by **Country, Date Added, Release Year, and Director**
 | `dashboard_screenshot.png` | Preview of the dashboard |
 | `README.md` | This file |
 
----
 
 ## Tools Used
 
 - **Tableau** — for building the dashboard and all visualizations
 - **Excel / Kaggle dataset** — Netflix Movies and TV Shows data
-
-
