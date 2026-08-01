@@ -19,7 +19,7 @@ Ever wondered what Netflix's library actually looks like under the hood? This da
 
 ## What This Project Is About
 
-I used a Netflix dataset from Kaggle covering titles added between **2008 and 2021** to build an interactive dashboard in Tableau. The goal was to understand the makeup of Netflix's content — what type, which genres, which countries, and how it's changed over the years.
+I used a Netflix dataset from Kaggle covering titles added between **1925 and 2021** to build an interactive dashboard in Tableau. The goal was to understand the makeup of Netflix's content — what type, which genres, which countries, and how it's changed over the years.
 
 ---
 
