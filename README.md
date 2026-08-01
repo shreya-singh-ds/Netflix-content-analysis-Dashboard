@@ -19,7 +19,6 @@ Ever wondered what Netflix's library actually looks like under the hood? This da
 
 
 🔗 **[Click here to explore the interactive dashboard](https://public.tableau.com/app/profile/shreya.singh5357/viz/Netflix_17750390908590/Netflix?publish=yes)**
-*(No login or download needed — opens straight in your browser)*
 
 
 
