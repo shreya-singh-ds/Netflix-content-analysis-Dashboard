@@ -15,12 +15,12 @@ This dashboard digs into 8,780 titles,  movies and TV shows to explore how Netfl
 ## Dashboard Preview
 
 
-![Dashboard Overview](dashboard_preview1.png)
+![Dashboard Overview](Dashboard_Preview1.png)
 
 <br>
 <br>
 
-![Dashboard Details](dashboard_preview2.png)
+![Dashboard Details](Dashboard_Preview2.png)
 
 
 
