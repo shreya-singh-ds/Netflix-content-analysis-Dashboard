@@ -14,18 +14,7 @@ This dashboard digs into 8,780 titles,  movies and TV shows to explore how Netfl
 
 ## Dashboard Preview
 
-
-![Dashboard Overview](Dashboard_Preview1.png)
-
-<br>
-<br>
-
-![Dashboard Details](Dashboard_Preview2.png)
-
-
-
-
-
+![Dashboard Overview](Netflix_Content_Analytics_Dashboard.png)
 
 
 ## What This Project Is About
